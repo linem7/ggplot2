@@ -1,7 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# ggplot2 <img src="man/figures/logo.png" align="right" width="120" />
+# ggplot2这个是概述
+<img src="man/figures/logo.png" align="right" width="120" />
 
 [![Travis Build
 Status](https://travis-ci.org/tidyverse/ggplot2.svg?branch=master)](https://travis-ci.org/tidyverse/ggplot2)
@@ -21,10 +22,10 @@ use, and it takes care of the details.
 ## Installation
 
 ``` r
-# The easiest way to get ggplot2 is to install the whole tidyverse:
+# The easiest way to get ggplot2 is to install the whole tidyverse（装ggplot2最好的方法是把tidyverse给安装了）:
 install.packages("tidyverse")
 
-# Alternatively, install just ggplot2:
+# Alternatively, install just ggplot2（当然，你要是觉得那很傻逼，你可以只装ggplot2）:
 install.packages("ggplot2")
 
 # Or the the development version from GitHub:
